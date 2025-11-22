@@ -1,2 +1,2 @@
 # Course Project
-Projects done as a part of course work
+Projects and Assignments done as a part of course work
